@@ -250,13 +250,13 @@ nav ul li {
   padding-top: 10px;
 }
 
-.club-flags {
+.country-flags {
   display: flex;
   justify-content: space-around;
   align-items: center;
 }
 
-.club-flags h4 {
+.country-flags h4 {
   padding: 0px 3px;
 }
 

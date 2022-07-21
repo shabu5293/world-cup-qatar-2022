@@ -206,7 +206,6 @@ nav ul li {
   text-decoration: none;
 }
 
-/* -----------Blog area-------  */
 .blogs-container {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
